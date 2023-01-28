@@ -6,4 +6,3 @@ project based on application creation
 - CSS 
 - JavaScript
 
-this is a demo product not yet finalized.
